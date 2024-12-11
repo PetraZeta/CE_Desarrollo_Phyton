@@ -1,0 +1,2 @@
+[console_scripts]
+pypas = pypas.main:app
