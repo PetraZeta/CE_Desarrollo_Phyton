@@ -1,0 +1,28 @@
+[
+    {
+        "nombre": "Perro",
+        "clase": "Mamífero",
+        "orden": "Carnívora"
+    }, 
+    {
+        "nombre": "Gato",
+        "clase": "Mamífero",
+        "orden": "Carnívora"
+    },
+    {
+        "nombre": "Elefante",
+        "clase": "Mamífero",
+        "orden": "Proboscidea"
+    },
+    {
+        "nombre": "Delfín",
+        "clase": "Mamífero",
+        "orden": "Cetacea"
+    },
+    {
+        "nombre": "Ballena",
+        "clase": "Mamífero",
+        "orden": "Cetacea"
+    }
+]
+  

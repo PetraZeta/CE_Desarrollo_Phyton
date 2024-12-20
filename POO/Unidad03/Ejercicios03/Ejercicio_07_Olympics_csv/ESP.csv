@@ -1,0 +1,20 @@
+year,host_country,host_city,country_name,country_code,gold,silver,bronze
+1900,France,Paris,Spain,ESP,1,0,0
+1920,Belgium,Antwerp,Spain,ESP,0,2,0
+1928,Netherlands,Amsterdam,Spain,ESP,1,0,0
+1932,United States,Los Angeles,Spain,ESP,0,0,1
+1948,Great Britain,London,Spain,ESP,0,1,0
+1952,Finland,Helsinki,Spain,ESP,0,1,0
+1960,Italy,Rome,Spain,ESP,0,0,1
+1972,West Germany,Munich,Spain,ESP,0,0,1
+1976,Canada,Montreal,Spain,ESP,0,2,0
+1980,Soviet Union,Moscow,Spain,ESP,1,3,2
+1984,United States,Los Angeles,Spain,ESP,1,2,2
+1988,South Korea,Seoul,Spain,ESP,1,1,2
+1992,Spain,Barcelona,Spain,ESP,13,7,2
+1996,United States,Atlanta,Spain,ESP,5,6,6
+2000,Australia,Sydney,Spain,ESP,3,3,5
+2004,Greece,Athens,Spain,ESP,3,11,6
+2008,China,Beijing,Spain,ESP,5,11,3
+2012,Great Britain,London,Spain,ESP,4,10,5
+2020,Japan,Tokyo,Spain,ESP,3,8,6

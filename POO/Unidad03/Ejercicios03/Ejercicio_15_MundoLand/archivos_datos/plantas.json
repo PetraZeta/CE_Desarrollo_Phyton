@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Rosal",
+        "clase": "Flor",
+        "orden": "Rosales"
+    }, 
+    {
+        "nombre": "Orquídea",
+        "clase": "Flor",
+        "orden": "Orchidales"
+    },
+    {
+        "nombre": "Pino",
+        "clase": "Árbol",
+        "orden": "Pinales"
+    },
+    {
+        "nombre": "Cedro",
+        "clase": "Árbol",
+        "orden": "Pinales"
+    },
+    {
+        "nombre": "Helecho",
+        "clase": "Planta",
+        "orden": "Filicales"
+    }
+]

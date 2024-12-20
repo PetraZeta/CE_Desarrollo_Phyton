@@ -1,0 +1,8 @@
+operacion:codigo_producto:precio
+update:S10_1678:100.2
+delete:S11_1111
+update:s20_2022:1000.2
+delete:s29_1220
+delete:S10_2016
+delete:211_2322
+delete:S10_1678

@@ -1,0 +1,332 @@
+{
+    "33": {
+        "jornada": 33,
+        "fecha": "2024-04-26 00:00:00",
+        "local": "Real Sociedad",
+        "visitante": "Real Madrid",
+        "goles_local": 0,
+        "goles_visitante": 1,
+        "total_goles": 1,
+        "ganador": "Real Madrid"
+    },
+    "32": {
+        "jornada": 32,
+        "fecha": "2024-04-21 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Barcelona",
+        "goles_local": 3,
+        "goles_visitante": 2,
+        "total_goles": 5,
+        "ganador": "Real Madrid"
+    },
+    "31": {
+        "jornada": 31,
+        "fecha": "2024-04-13 00:00:00",
+        "local": "Mallorca",
+        "visitante": "Real Madrid",
+        "goles_local": 0,
+        "goles_visitante": 1,
+        "total_goles": 1,
+        "ganador": "Real Madrid"
+    },
+    "30": {
+        "jornada": 30,
+        "fecha": "2024-03-31 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Ath Bilbao",
+        "goles_local": 2,
+        "goles_visitante": 0,
+        "total_goles": 2,
+        "ganador": "Real Madrid"
+    },
+    "29": {
+        "jornada": 29,
+        "fecha": "2024-03-16 00:00:00",
+        "local": "Osasuna",
+        "visitante": "Real Madrid",
+        "goles_local": 2,
+        "goles_visitante": 4,
+        "total_goles": 6,
+        "ganador": "Real Madrid"
+    },
+    "28": {
+        "jornada": 28,
+        "fecha": "2024-03-10 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Celta Vigo",
+        "goles_local": 4,
+        "goles_visitante": 0,
+        "total_goles": 4,
+        "ganador": "Real Madrid"
+    },
+    "27": {
+        "jornada": 27,
+        "fecha": "2024-03-02 00:00:00",
+        "local": "Valencia",
+        "visitante": "Real Madrid",
+        "goles_local": 2,
+        "goles_visitante": 2,
+        "total_goles": 4,
+        "ganador": "Empate"
+    },
+    "26": {
+        "jornada": 26,
+        "fecha": "2024-02-25 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Sevilla",
+        "goles_local": 1,
+        "goles_visitante": 0,
+        "total_goles": 1,
+        "ganador": "Real Madrid"
+    },
+    "25": {
+        "jornada": 25,
+        "fecha": "2024-02-18 00:00:00",
+        "local": "Rayo Vallecano",
+        "visitante": "Real Madrid",
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "total_goles": 2,
+        "ganador": "Empate"
+    },
+    "24": {
+        "jornada": 24,
+        "fecha": "2024-02-10 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Girona",
+        "goles_local": 4,
+        "goles_visitante": 0,
+        "total_goles": 4,
+        "ganador": "Real Madrid"
+    },
+    "23": {
+        "jornada": 23,
+        "fecha": "2024-02-04 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Atl. Madrid",
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "total_goles": 2,
+        "ganador": "Empate"
+    },
+    "20": {
+        "jornada": 20,
+        "fecha": "2024-02-01 00:00:00",
+        "local": "Getafe",
+        "visitante": "Real Madrid",
+        "goles_local": 0,
+        "goles_visitante": 2,
+        "total_goles": 2,
+        "ganador": "Real Madrid"
+    },
+    "22": {
+        "jornada": 22,
+        "fecha": "2024-01-27 00:00:00",
+        "local": "Las Palmas",
+        "visitante": "Real Madrid",
+        "goles_local": 1,
+        "goles_visitante": 2,
+        "total_goles": 3,
+        "ganador": "Real Madrid"
+    },
+    "21": {
+        "jornada": 21,
+        "fecha": "2024-01-21 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Almeria",
+        "goles_local": 3,
+        "goles_visitante": 2,
+        "total_goles": 5,
+        "ganador": "Real Madrid"
+    },
+    "19": {
+        "jornada": 19,
+        "fecha": "2024-01-03 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Mallorca",
+        "goles_local": 1,
+        "goles_visitante": 0,
+        "total_goles": 1,
+        "ganador": "Real Madrid"
+    },
+    "18": {
+        "jornada": 18,
+        "fecha": "2023-12-21 00:00:00",
+        "local": "Alaves",
+        "visitante": "Real Madrid",
+        "goles_local": 0,
+        "goles_visitante": 1,
+        "total_goles": 1,
+        "ganador": "Real Madrid"
+    },
+    "17": {
+        "jornada": 17,
+        "fecha": "2023-12-17 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Villarreal",
+        "goles_local": 4,
+        "goles_visitante": 1,
+        "total_goles": 5,
+        "ganador": "Real Madrid"
+    },
+    "16": {
+        "jornada": 16,
+        "fecha": "2023-12-09 00:00:00",
+        "local": "Betis",
+        "visitante": "Real Madrid",
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "total_goles": 2,
+        "ganador": "Empate"
+    },
+    "15": {
+        "jornada": 15,
+        "fecha": "2023-12-02 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Granada CF",
+        "goles_local": 2,
+        "goles_visitante": 0,
+        "total_goles": 2,
+        "ganador": "Real Madrid"
+    },
+    "14": {
+        "jornada": 14,
+        "fecha": "2023-11-26 00:00:00",
+        "local": "Cadiz CF",
+        "visitante": "Real Madrid",
+        "goles_local": 0,
+        "goles_visitante": 3,
+        "total_goles": 3,
+        "ganador": "Real Madrid"
+    },
+    "13": {
+        "jornada": 13,
+        "fecha": "2023-11-11 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Valencia",
+        "goles_local": 5,
+        "goles_visitante": 1,
+        "total_goles": 6,
+        "ganador": "Real Madrid"
+    },
+    "12": {
+        "jornada": 12,
+        "fecha": "2023-11-05 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Rayo Vallecano",
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "total_goles": 0,
+        "ganador": "Empate"
+    },
+    "11": {
+        "jornada": 11,
+        "fecha": "2023-10-28 00:00:00",
+        "local": "Barcelona",
+        "visitante": "Real Madrid",
+        "goles_local": 1,
+        "goles_visitante": 2,
+        "total_goles": 3,
+        "ganador": "Real Madrid"
+    },
+    "10": {
+        "jornada": 10,
+        "fecha": "2023-10-21 00:00:00",
+        "local": "Sevilla",
+        "visitante": "Real Madrid",
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "total_goles": 2,
+        "ganador": "Empate"
+    },
+    "9": {
+        "jornada": 9,
+        "fecha": "2023-10-07 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Osasuna",
+        "goles_local": 4,
+        "goles_visitante": 0,
+        "total_goles": 4,
+        "ganador": "Real Madrid"
+    },
+    "8": {
+        "jornada": 8,
+        "fecha": "2023-09-30 00:00:00",
+        "local": "Girona",
+        "visitante": "Real Madrid",
+        "goles_local": 0,
+        "goles_visitante": 3,
+        "total_goles": 3,
+        "ganador": "Real Madrid"
+    },
+    "7": {
+        "jornada": 7,
+        "fecha": "2023-09-27 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Las Palmas",
+        "goles_local": 2,
+        "goles_visitante": 0,
+        "total_goles": 2,
+        "ganador": "Real Madrid"
+    },
+    "6": {
+        "jornada": 6,
+        "fecha": "2023-09-24 00:00:00",
+        "local": "Atl. Madrid",
+        "visitante": "Real Madrid",
+        "goles_local": 3,
+        "goles_visitante": 1,
+        "total_goles": 4,
+        "ganador": "Atl. Madrid"
+    },
+    "5": {
+        "jornada": 5,
+        "fecha": "2023-09-17 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Real Sociedad",
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "total_goles": 3,
+        "ganador": "Real Madrid"
+    },
+    "4": {
+        "jornada": 4,
+        "fecha": "2023-09-02 00:00:00",
+        "local": "Real Madrid",
+        "visitante": "Getafe",
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "total_goles": 3,
+        "ganador": "Real Madrid"
+    },
+    "3": {
+        "jornada": 3,
+        "fecha": "2023-08-25 00:00:00",
+        "local": "Celta Vigo",
+        "visitante": "Real Madrid",
+        "goles_local": 0,
+        "goles_visitante": 1,
+        "total_goles": 1,
+        "ganador": "Real Madrid"
+    },
+    "2": {
+        "jornada": 2,
+        "fecha": "2023-08-19 00:00:00",
+        "local": "Almeria",
+        "visitante": "Real Madrid",
+        "goles_local": 1,
+        "goles_visitante": 3,
+        "total_goles": 4,
+        "ganador": "Real Madrid"
+    },
+    "1": {
+        "jornada": 1,
+        "fecha": "2023-08-12 00:00:00",
+        "local": "Ath Bilbao",
+        "visitante": "Real Madrid",
+        "goles_local": 0,
+        "goles_visitante": 2,
+        "total_goles": 2,
+        "ganador": "Real Madrid"
+    }
+}
