@@ -12,6 +12,7 @@ def cargar_mamiferos():
     except:
         return False
 
+
 def cargar_plantas():
     try:
         archivo = os.path.join(os.path.dirname(__file__), 'plantas.json')

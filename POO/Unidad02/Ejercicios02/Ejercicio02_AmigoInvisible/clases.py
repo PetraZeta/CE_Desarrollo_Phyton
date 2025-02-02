@@ -1,3 +1,4 @@
+
 import random 
 
 class Persona:
@@ -25,9 +26,6 @@ class AmigoInvisible:
             self.participantes.append(nuevo_participante)
             return True
         return False
-
-
-
 
     def sortear(self):
         # barajar la lista

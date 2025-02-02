@@ -15,15 +15,17 @@ def leer_json_configuracion(archivo_config):
             return dicc_config
     except IOError:        
         return None
-    
+        
+
 def check_top3(archivo_top3, usuario, puntos):
     try:
         # Abro top3.json para lectura y leo el dicc.
         with open(archivo_top3, 'r') as file:
             diccionario_top3 = json.load(file)
-
            
-        el_top3 = diccionario_top3['top3']   # obtener el valor, la lista de puntosç
+        el_top3 = diccionario_top3['top3']
+
+        # obtener el valor, la lista de puntosç
         # los puntos q llegan superan al tercero
         if puntos > el_top3[2]['puntuacion']:
 
@@ -45,6 +47,7 @@ def check_top3(archivo_top3, usuario, puntos):
     except IOError:        
         return None
     
+
 def get_top3(archivo_top3):
     try:
         # Abro top3.json para lectura y leo el dicc.
