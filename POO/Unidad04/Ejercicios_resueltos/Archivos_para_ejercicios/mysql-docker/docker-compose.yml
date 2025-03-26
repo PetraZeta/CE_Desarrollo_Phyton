@@ -1,0 +1,18 @@
+version: '3.0'
+
+services:
+  mySQL:
+    image: mysql:8
+    restart: always
+    container_name: MySQL_DB  
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: almacen
+      MYSQL_USER: user
+      MYSQL_PASSWORD: robocop
+    ports:
+      - "3309:3306"
+    volumes:
+      - ./data:/var/lib/mysql
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    

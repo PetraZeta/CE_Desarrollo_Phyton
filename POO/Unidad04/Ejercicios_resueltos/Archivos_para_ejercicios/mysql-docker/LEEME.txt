@@ -1,0 +1,18 @@
+# Levantar el servicio de MySQL en Docker Windows
+Iniciar Docker Desktop
+docker-compose up -d
+
+# Levantar el servicio de MySQL en odcker Ubuntu.
+Siendo su
+apt install docker-compose-v2
+docker compose up -d
+
+
+# Conectar al contenedor de MySQL como "user"
+docker exec -it MySQL_DB mysql -u user -p
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+numeroCliente,nombre,apellido,telefono,email
+100:Gema:García:null:null
+1001,Juan,Gomez,123456789,juan@gomez.es
+1002,Ana,Garcia,987654321,null
+1003,Pedro,Gonzalez,null,pedro@hotmail.com
+1004,Rosa,Blanco,654321987,rosablanco@gmail.com
+1005,Carlos,Rojas,321654987,carlosrojas@gmail.com
+200:Antonio Luis:Robles:2342342:antonio.luis@gmail.com
